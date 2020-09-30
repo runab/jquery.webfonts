@@ -1,7 +1,7 @@
 jquery.webfonts
 ===============
 
-jQuery based webfonts extension
+jQuery based webfonts extension.
 
 ## Introduction
 
@@ -38,4 +38,4 @@ See GPL-LICENSE and MIT-LICENSE for details.
 
 ## Developers
 
-This project is part of Wikimedia Foundation's Project Milkshake. See https://www.mediawiki.org/wiki/Project_Milkshake
+This project is part of "Wikimedia Foundation's Project Milkshake". See https://www.mediawiki.org/wiki/Project_Milkshake
